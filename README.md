@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="./my-image.png" width="150">
+<img src="./Cartoon_Wizard_Frog_with_Purple_Cape_and_Hat_with_gold_stars_and_moon-removebg.png" width="150">
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Manya](URLwww.linkedin.com/in/manya-khede-1a11421b2) and welcome to my GitHub profile! :octocat:
